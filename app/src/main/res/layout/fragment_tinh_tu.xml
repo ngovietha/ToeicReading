@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".NguPhap.TinhTuFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp">
+            <TextView
+                android:textAllCaps="false"
+                android:id="@+id/tinhtu"
+                android:textColor="#311B92"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tinh_tu" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

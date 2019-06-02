@@ -1,0 +1,717 @@
+<resources>
+    <string name="app_name">Toeic Reading 2019</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="Gioi_thieu_toeic"><b><i>TOEIC</i></b> là bài thi trắc nghiệm được tiến hành trong 2 giờ, gồm 200 câu hỏi chia thành hai phần như sau:\n\n
+
+        <b>-Phần nghe hiểu</b>: Đánh giá trình độ nghe hiểu ngôn ngữ nói tiếng Anh, bao gồm <b>100 câu hỏi</b> với <b>4 phần</b> được thực hiện qua băng casset hoặc đĩa CD trong thời gian <b>45 phút</b>.\n
+Thí sinh sẽ nghe các câu miêu tả, câu hỏi, hội thoại và đoạn thông tin bằng tiếng Anh, sau đó lựa chọn câu trả lời dựa trên những nội dung đã nghe.\n\n
+        <b>- Phần đọc hiểu</b>: Đánh giá trình độ hiểu ngôn ngữ viết tiếng Anh, bao gồm <b>100 câu hỏi</b> với <b>3 phần</b> được thực hiện trong thời gian <b>75</b> phút.\n
+        Thí sinh sẽ đọc các thông tin trong đề thi và lựa chọn câu trả lời dựa vào nội dung đã đọc\n\n
+        <b>-</b> Với thang điểm từ <b>10-990</b>, TOEIC Listening and Reading có thể đánh giá mọi trình độ sử dụng Anh Ngữ (Từ sơ cấp đến mức độ thành thạo như người bản ngữ) phù hợp với tất cả các vị trí công việc, từ lao động giản đơn đến cấp quản lý.</string>
+    <string name="thi1_cong_thuc">
+        <b>- Công thức thì hiện tại đơn đối với động từ thường</b>\n
+Khẳng định:S + V_S/ES + O\n
+Phủ định: S+ DO/DOES + NOT + V(Infinitive) +O\n
+Nghi vấn: DO/DOES + S + V (Infinitive)+ O ?\n\n
+
+        <b>- Công thức thì hiện tại đơn đối với động từ Tobe</b>\n
+Khẳng định: S+ AM/IS/ARE + (an/a/the) N(s)/ Adj\n
+Phủ định: S + AM/IS/ARE + NOT + (an/a/the) N (s)/ Adj\n
+Nghi vấn: AM/IS/ARE + S + (an/a/the) N (s)/ Adj\n\n
+        <b>- Ví dụ:</b>\n
+
+I am a student.\n
+She is not beautiful.\n
+Are you a student?
+    </string>
+    <string name="thi1_cach_dung">- Diễn tả một sự thật hiển nhiên, một chân lý.\n
+        (E.g: The sun rises in the East and sets in the West.)\n
+
+- Diễn tả 1 thói quen, một hành động thường xảy ra ở hiện tại.\n
+        (E.g:I get up early every morning.)\n
+
+- Nói lên khả năng của một người.\n(E.g : He plays tennis very well.)</string>
+    <string name="thi1_dau_hieu">Trong câu có xuất hiện từ sau: <b>every</b> (every day, every week, every month, ...)\n
+
+Các trạng từ tần suất xuất hiện trong thì hiện tại đơn:  <b>Always </b>, <b>usually</b>, <b>often</b>, <b>sometimes</b>, <b>seldom</b>, <b>rarely</b>,<b>hardly</b>, <b>never</b>.\n
+
+        <b>Ví dụ:</b>\n
+
+I use the Internet just about every day.\n
+I always miss you.</string>
+    <string name="thi2_cong_thuc">- Khẳng định: S + is/ am/ are + V_ing + O\n ( E.g: They are studying English.)\n
+- Phủ định: S+ is/ am/ are + NOT + V_ing + O\n (E.g: I’m not cooking now.)\n
+- Nghi vấn: Is/ am/ are + S+ V_ing + O\n (E.g: Is she watching T.V at the moment?)</string>
+    <string name="thi2_cach_dung">- Diễn tả hành động đang diễn ra tại thời điểm nói\n (E.g: The children are playing football now.)\n
+- Diễn tả hành động đang diễn ra nhưng không nhất thiết xảy ra tại thời điểm nói.\n (E.g: I am looking for a job)\n
+- Diễn tả 1 sự than phiền với hành động lặp đi lặp lại nhiều gây khó chịu, bực mình. Trong trường hợp này, câu thường có trạng từ tần suất "always".\n (E.g : He is always borrowing our books and then he doesn’t remember.)\n
+- Dùng để diễn tả một hành động sắp xảy ra trong tương lai theo kế hoạch đã định trước \n(E.g: I am flying to Thailand tomorrow.)\n
+- Lưu ý quan trọng cần biết:\n
+
+Không dùng thì hiện tại tiếp diễn với các động từ chỉ tri giác, nhận thức như : be, see, hear, feel, realize, seem, remember, forget, understand, know, like, want, glance, smell, love, hate, ...\n
+
+Ví dụ:\n
+I am tired now.\n
+He wants to go for a cinema at the moment.\n
+Do you remember me?</string>
+    <string name="thi2_dau_hieu">Trong câu có những từ: Now, right now, at present, at the moment,...\n
+
+Trong các câu trước đó là một câu chỉ mệnh lệnh: Look!, Watch! Be quite!, ...</string>
+    <string name="thi3_cong_thuc">- Khẳng định: S + have/ has + Past participle (V3) + O.\n (E.g: She has studied English for 2 years.)\n
+- Phủ định: S + have/ has + NOT+ Past participle (V3) + O.\n (E.g: I haven’t seen my close friend for a month.)\n
+- Nghi vấn: Have/ has +S+ Past participle (V3) + O?\n (E.g: Have you eaten dinner yet?)</string>
+    <string name="thi3_cach_dung">- Diễn tả hành động xảy ra trong quá khứ nhưng không nói rõ thời điểm, có kết quả liên quan đến hiện tại:\n
+Ví dụ: : My car has been stolen./ Chiếc xe của tôi đã bị lấy cắp.\n
+
+- Diễn tả hành động bắt đầu ở quá khứ và đang tiếp tục ở hiện tại :\n
+Ví dụ: They’ve been married for nearly fifty years / Họ đã kết hôn được 50 năm rồi.</string>
+    <string name="thi3_dau_hieu">Trong thì hiện tại hoàn thành thường có những từ sau: Already, yet, just, ever, never, since, for, recently, ...\n
+
+- just, recently, lately: gần đây, vừa mới\n
+- ever: đã từng\n
+- already: rồi\n
+- for + khoảng thời gian (for a year, for a long time, …)\n
+- since + mốc/điểm thời gian(since 1992, since June, …)\n
+- yet: chưa (dùng trong câu phủ định và câu hỏi)\n
+- so far = until now = up to now = up to the present: cho đến bây giờ</string>
+    <string name="thi4_cong_thuc">- Khẳng định: S has/have + been + V_ing + O\n (E.g: I have been looking you all day.)\n
+- Phủ định: S+ hasn’t/ haven’t+ been+ V-ing + O\n (E.g: She has not been studying English for 5 years.)\n
+- Nghi vấn: Has/have+ S+ been+ V-ing + O?\n (E.g: Has he been standing in the snow for more than 3 hours?)</string>
+    <string name="thi4_cach_dung">Diễn tả một hành động bắt đầu trong quá khứ diễn ra liên tục và kéo dài đến hiện tại. Nhấn mạnh vào tính chất “liên tục” của hành động.\n
+
+Ví dụ: He been standing in the snow for more than 3 hours./ Anh ấy đã đứng dưới trời tuyết hơn 3 tiếng rồi.\n
+
+Phân biệt với thì hiện tại hoàn thành:\n
+
+Thì hiện tại hoàn thành nhấn mạnh vào kết quả còn thì hiện tại hoàn thành tiếp diễn nhấn mạnh vào quá trình.</string>
+    <string name="thi4_dau_hieu">- Từ nhận biết: all day, all week, all month, since, for, for a long time, almost every day this week, recently, lately, in the past week, in recent years, up until now, and so far.\n
+
+        Ví dụ: I am so tired. I have been searching for a new apartment <u>all the morning</u>.</string>
+    <string name="thi5_cong_thuc"><b>Với động từ thường:</b>\n
+
+(Khẳng định): S + V(past)+ O \n E.g: He worked as a policeman.\n
+(Phủ định): S + DID+ NOT + V (infinitive) + O \nE.g: She didn’t eat bread for the breakfast.\n
+(Nghi vấn): DID + S+ V (infinitive)+ O ?\n E.g: Did you call Zoey yesterday?\n\n
+        <b>Với động từ Tobe:</b>
+
+(Khẳng định): S + WAS/WERE + (an/a/the) + N(s)/ Adj\n
+(Phủ định): S+ WAS/ WERE + NOT + (an/a/the) + N(s)/ Adj\n
+(Nghi vấn): WAS/WERE + S+ (an/a/the) + N(s)/ Adj?</string>
+    <string name="thi5_cach_dung">- Diễn tả một hành động đã xảy ra và kết thúc trong quá khứ. \n
+
+- Ví dụ:\n
+
+I went to the concert last week.\n
+A few weeks ago, a woman called to report a robbery.</string>
+    <string name="thi5_dau_hieu">Các từ thường xuất hiện trong thì quá khứ đơn: Yesterday ( hôm qua), last (night/ week/ month/ year), ago (cách đây), ...</string>
+    <string name="thi6_cong_thuc">- Khẳng định: S + was/were + V_ing + O\n (E.g: She was watching the news at 7 am yesterday.)\n
+- Phủ định: S + was not/were not+ V-ing + O\n (E.g: The were not watching the news at 7 am yesterday.)\n
+- Nghi vấn: Was/Were + S+ V-ing + O? \n( E.g: Were you watching the news at 7 am yesterday?)</string>
+    <string name="thi6_cach_dung">- Dùng để diễn tả một hành động đang xảy ra tại một thời điểm xác định trong quá khứ.\n
+
+Ví dụ:  At 12 o’clock yesterday, we were having lunch. (Vào lúc 12h ngày hôm qua, chúng tôi đang ăn trưa.)\n
+        - Dùng để diễn tả một hành động đang xảy ra thì một hành động khác xen vào. Hành động đang xảy ra chia thì quá khứ tiếp diễn, hành động xen vào chia thì quá khứ đơn.\n
+Ex:  He was chatting with his friend when his mother came into the room. (Cậu ta đang tán gẫu với bạn khi mẹ cậu ta vào phòng.)</string>
+    <string name="thi6_dau_hieu">- Trong câu có những từ: While, when, as, at 10:00 (giờ) last night, ...\n
+- Ví dụ:\n
+
+It happened at five the afternoon while she was watching the news on TV.\n
+He was doing his homework in his bedroom when the burglar came into the house.</string>
+    <string name="thi7_cong_thuc">- Khẳng định: S + had + V3/ED + O\n (Ex: They had gone to school before they went home.)\n
+- Phủ định: S + had+ not + V3/ED + O \n( They hadn’t eaten breakfast before they went to school.)\n
+- Nghi vấn: Had +S + V3/ED + O ? \n(Had they eaten breakfast before they went to school?)</string>
+    <string name="thi7_cach_dung">- Diễn tả một hành động đã xảy ra, hoàn thành trước một hành động khác trong quá khứ.\n
+
++ Khi hai hành động cùng xảy ra trong quá khứ, ta dùng thì quá khứ hoàn thành cho hành động xảy ra trước và quá khứ đơn cho hành động xảy ra sau.\n
+
++ Khi thì quá khứ hoàn thành thường được dùng kết hợp với thì quá khứ đơn, ta thường dùng kèm với các giới từ và liên từ như: by (có nghĩa như before), before, after, when, till, untill, as soon as, no sooner…than\n
+
+E.g: Yesterday, I went out after I had finished my homework. (Hôm qua, tôi đi chơi sau khi tôi đã làm xong bài tập.)</string>
+    <string name="thi7_dau_hieu">- Từ nhận biết: until then, by the time, prior to that time, before, after, for, as soon as, by, ...\n
+- Trong câu thường có các từ: before, after, when by, by the time, by the end of + time in the past</string>
+    <string name="thi8_cong_thuc">- Khẳng định:She+ had + been + V_ing + O \n(Ex: I had been buying)\n
+- Phủ định: S+ hadn’t+ been+ V-ing + O\n ( Ex: I had not been buying)\n
+- Nghi vấn: Had+S+been+V-ing + O?\n ( Ex: Had I been buying)</string>
+    <string name="thi8_cach_dung"> - Diễn đạt một hành động xảy ra kéo dài trước một hành động khác trong Quá khứ (nhấn mạnh tính tiếp diễn)\n
+Ví dụ: I had been thinking about that before you mentioned it\n
+
+- Diễn đạt một hành động kéo dài liên tục trước một thời điểm xác định trong quá khứ.\n
+Ví dụ: We had been making chicken soup 2 hours before 10:00 last night, so when I came, the room was still hot and steamy.</string>
+    <string name="thi8_dau_hieu">Dấu hiệu nhận biết: until then, by the time, prior to that time, before, after. \n
+
+Ex: Had you been waiting long before the taxi arrived?</string>
+    <string name="thi9_cong_thuc">- Khẳng định:S + shall/will + V(infinitive) + O \n(E.g: We’ ll enjoy it)\n
+- Phủ định: S + shall/will + not + V(infinitive) + O \n(E.g: He won’t go to school.)
+- Nghi vấn: Shall/will+S + V(infinitive) + O ?\n (E.g: Will they have dinner together?)</string>
+    <string name="thi9_cach_dung">- Diễn tả dự định nhất thời xảy ra ngay tại lúc nói. \n(EX: Are you going to the beach? I will go with you – Bạn muốn đi biển không? Mình sẽ đi cùng bạn.)\n
+- Nói về một dự đoán dựa trên kinh nghiệm có được trong quá khứ.\n (EX: I think it’ll be extremely hot there – Tôi nghĩ rằng nó sẽ rất nóng đó)\n
+- Khi đưa ra ý kiến, đề nghị.\n (EX: Don’t worry, I’ll let everyone know - Đừng lo lắng, tôi sẽ cho tất cả mọi người biết</string>
+    <string name="thi9_dau_hieu">Trong câu thường có: tomorrow, Next day/ Next week/ next month/ next year,  in + thời gian, probably, perhaps, ...</string>
+    <string name="thi10_cong_thuc">- Khẳng định: S + shall/will + be + V-ing+ O\n
+- Phủ định: S + shall/will + not + be + V-ing + O\n
+- Nghi vấn: Shall/Will+S + be + V-ing + O?</string>
+    <string name="thi10_cach_dung">- Dùng để nói về một hành động xảy ra trong tương lai tại thời điểm xác định.\n (EX: At 10 o’clock tomorrow, my friends and I will be going to the museum.)\n
+- Dùng nói về một hành động đang xảy ra trong tương lai thì có hành động khác xen vào. \n(EX:When you come tomorrow, I will be watching my favorite TV show.)</string>
+    <string name="thi10_dau_hieu">Trong câu có các trạng từ chỉ thời gian trong tương lai kèm theo thời điểm xác định:\n
+
+- at this time/ at this moment + thời gian trong tương lai: Vào thời điểm này ….\n
+
+- At + giờ cụ thể + thời gian trong tương lai: vào lúc …..</string>
+    <string name="thi11_cong_thuc">- Khẳng định:S + shall/will + have + V3/ED\n
+
+- Phủ định: S + shall/will + not + have + V3/ED\n
+- Nghi vấn: Shall/Will+ S + have + V3/ED ?
+</string>
+    <string name="thi11_cach_dung">- Dùng để diễn tả một hành động hay sự việc hoàn thành trước một thời điểm trong tương lai.\n
+Ví dụ: I will have finished my homework before 10 o’clock this evening. (Cho đến trước 10h tối nay tôi sẽ hoàn thành xong bài tập về nhà rồi.)\n
+
+- Dùng để diễn tả một hành động hay sự việc hoàn thành trước một hành động hay sự việc khác trong tương lai.\n
+Ví dụ: I will have made the meal ready before the time you come tomorrow. (Ngày mai tôi đã chuẩn bị bữa ăn sẵn sàng trước khi bạn đến ngày mai.)</string>
+    <string name="thi11_dau_hieu">By + thời gian tương lai,\n
+By the end of + thời gian trong tương lai,\n
+Before + thời gian tương lai\n
+By the time …</string>
+    <string name="thi12_cong_thuc">- Khẳng định: S + shall/will + have been + V-ing + O\n
+- Phủ định: S + shall/will + not + have + been + V-ing \n
+- Nghi vấn: Shall/Will + S+ have been + V-ing + O ? </string>
+    <string name="thi12_cach_dung">Các dùng thì tương lai hoàn thành tiếp diễn: để diễn tả một hành động xảy ra trong quá khứ tiếp diễn liên tục đến một thời điểm cho trước trong tương lai\n
+
+Ví dụ:\n
+
+I will have been studying English for 10 years by the end of next month.\n
+By 2001, I will have been living in London for sixteen years.</string>
+    <string name="thi12_dau_hieu">For + khoảng thời gian + by/ before + mốc thời gian trong tương lai</string>
+    <string name="thi13_cong_thuc">- Khẳng dịnh: S + is/ am/ are + going to + V\n ( Ex: We’re going to visit Ha Long bay next week)\n
+
+- Phủ định: S + is/ am/ are + not + going to + V\n (Ex: He’s not going to visit Ha Long bay next week.)\n
+
+- Nghi vấn: Is/ Am/ Are + S + going to + V? \n( Ex: Are they going to visit Ha Long bay next week?)</string>
+    <string name="thi13_cach_dung">- Dùng để diễn tả một dự định, kế hoạch trong tương lai.\n
+Ví dụ: Join is going to get married this year. (Join dự định sẽ kết hôn trong năm nay.)\n
+
+- Dùng để diễn đạt một dự đoán có căn cứ, có dẫn chứng cụ thể.\n
+Ví dụ: Wel, we’re certainly goinhg to have a varied trip.</string>
+    <string name="thi13_dau_hieu">Xuất hiện các từ: next (month, year,..), 2 weeks later, ..., </string>
+    <string name="danh_tu"><b>1. Định nghĩa</b>\n
+
+Danh từ trong tiếng Anh là Noun, viết tắt là chữ N. \nDanh từ là cái từ mà chỉ ra cái “danh”. Danh là “tên”, giống như “biệt danh” hay “chức danh”.\n
+Danh từ là những từ chỉ người, sinh vật, sự vật, sự việc, khái niệm, hiện tượng,..\n\n
+
+<b>2. Vị trí của danh từ trong câu</b>\n
+
+        <b>- Danh từ làm chủ ngữ trong câu</b>\n
+Thường đứng ở đầu câu và sau trạng ngữ chỉ thời gian.\n
+
+Ví dụ: Yesterday Hue went home at 9.pm. (Hôm qua Huệ về nhà lúc 9 giờ tối)\n
+
+Hue là danh từ tên riêng, đứng đầu câu và sau danh từ chỉ thời gian là Yesterday, đóng vai trò làm chủ ngữ.\n
+
+        <b>- Danh từ đứng sau tính từ</b>\n
+Danh từ đi sau các tính từ sở hữu như: my, your, our, their, his, her, its. Hoặc các tính từ khác như good, beautiful….\n
+
+Ví dụ: Hoa is a my student. (Hoa là học sinh của tôi)\n
+
+Trong câu trên, ta thấy sau tính từ sở hữu my (của tôi) là danh từ student (học sinh).\n
+
+        <b>- Danh từ làm tân ngữ, đứng sau động từ</b>\n
+Ví dụ: We love English. (chúng tôi yêu Tiếng Anh)\n
+
+Sau động từ Love là danh từ English\n
+
+        <b>- Danh từ đứng sau “enough”</b>\n
+Ex: Hoan didn’t have enough money to buy that computer. (Hoàn đã không có đủ tiền để mua chiếc máy tính kia)\n
+
+        <b>- Danh từ đứng sau các mạo từ</b>\n
+Các mạo từ như: a, an, th\n
+
+Hoặc các từ như this, that, these, those, each, every, both, no, some, any, few, a few, little, a little,…\n
+
+Ví dụ: This book is an interesting book.\n
+
+        <b>- Danh từ đứng sau giới từ</b>\n
+Các giới từ như: in, on, of, with, under, about, at …\n
+
+Ví dụ: Phuong Nguyen is good at dancing. (Phượng Nguyễn rất giỏi về nhảy nhót)\n\n
+
+        <b>3. Dấu hiệu nhận biết</b>\n
+
+Danh từ Tiếng Anh thường có hậu tố là:\n
+
+- tion: nation,education,instruction……….\n
+- sion: question, television ,impression,passion……..\n
+- ment: pavement, movement, environmemt….\n
+- ce: differrence, independence,peace………..\n
+- ness: kindness, friendliness……\n
+- y: beauty, democracy(nền dân chủ), army…\n
+- er/or : động từ + er/or thành danh từ chỉ người: worker, driver, swimmer, runner, player, visitor,…</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="tinh_tu"><b>1. Định nghĩa</b>\n
+    Tính từ trong tiếng Anh là Adjective, viết tắt là Adj.\n Tính từ là từ mà nêu ra tính chất của sự vật, sự việc, hiên tượng.\n
+
+    <b><i>2. Vị trí của tính từ trong câu</i></b>\n
+Tính từ thường đứng ở các vị trí sau\n
+
+    <b>- Tính từ đứng trước danh từ</b>\n
+ Adj + N\n
+
+Ví dụ: My Tam is a famous singer.\n
+
+<b>- Tính từ đứng sau động từ liên kết:</b>\n
+tobe/seem/appear/feel/taste/look/keep/get + adj\n
+
+Ví dụ: She is beautiful\n
+
+Tom seems tired now.\n
+
+Chú ý: cấu trúc keep/make + O + adj\n
+
+Ví dụ: He makes me happy\n
+
+    <b>- Tínd từ đứng sau “ too”</b>\n
+S + tobe/seem/look….+ too +adj…\n
+
+Ví dụ: He is too short to play basketball.\n
+
+    <b>- Tính từ đứng trước “enough”</b>\n
+S + tobe + adj + enough…\n
+
+Ví dụ: She is tall enough to play volleyball.\n
+
+    <b>- Trong cấu trúc so…that:</b>\n
+tobe/seem/look/feel…..+ so + adj + that\n
+
+Ví dụ: The weather was so bad that we decided to stay at home\n
+
+    <b>- Tính từ còn được dùng dưới các dạng so sánh </b>
+    (lưu ý tính từ dài hay đứng sau more, the most, less, as….as)\n
+Ví dụ: Meat is more expensive than fish.\n
+
+Huyen is the most intelligent student in my class\n
+
+    <b>- Tính từ trong câu cảm thán</b>\n
+How +adj + S + V\n
+
+What + (a/an) + adj + N\n
+
+    <b><i>3. Dấu hiệu nhận biết tính từ</i></b>\n
+Thường có hậu tố(đuôi) là:\n
+- al: national, cutural…\n
+- ful: beautiful, careful, useful,peaceful…\n
+- ive: active, attractive ,impressive……..\n
+- able: comfortable, miserable…\n
+- ous: dangerous, serious, homorous,continuous,famous…\n
+- cult: difficult…\n
+- ish: selfish, childish…\n
+- ed: bored, interested, excited…\n
+- y: danh từ+ Y thành tính từ : daily, monthly, friendly, healthy…</string>
+    <string name="dong_tu"><b>1. Định nghĩa</b>\n
+        Động từ tiếng Anh là Verb, được viết tắt là chữ V.\n Động từ chỉ hành động (drive, run, play, …) hoặc chỉ trạng thái của chủ ngữ (seem, feel,…).\n
+
+Trọng một có thể không có chủ ngữ, tân ngữ nhưng nhất thiết phải có động từ\n
+
+        <b>2. Vị trí của động từ</b>\n
+<b>- Động từ thường đứng sau Chủ ngữ</b>\n
+        E.g: Lam Anh plays volleyball everyday.\n
+        <b>- Động từ đứng sau trạng từ chỉ tần suất:</b>\n E.g: I usually get up late.\n
+Một số trạng từ chỉ tần suất thường gặp:\n
+
+- Always: luôn luôn\n
+- Usually: thường thường\n
+- Often : thường\n
+- Sometimes: Đôi khi\n
+- Seldom: Hiếm khi\n
+- Never: Không bao giờ\n
+        <b>3. Cách nhận biết động từ</b>\n
+Động từ thường kết thúc bởi các đuôi sau:  -ate, -ain -flect, -flict -spect, -scribe, -ceive, -fy, -ise/-ize, -ude, -ide, -ade, -tend, v.v…\n
+Ví dụ: Compensate, Attain, Reflect, Inflict, Respect, Describe, Deceive, Modify, Industrialise/ize, Illude, Divide, Evade, Extend, v.v…\n
+
+        <b>4. Một số quy tắc biến đổi từ loại</b>\n
+
+- Động từ đuôi –ate danh từ thường là –ation: Compensate -> Compensation\n
+- Động từ đuôi –ceive danh từ là –ception: Deceive -> Deception\n
+- Động từ đuôi –scribe danh từ là –scription: Inscribe -> Inscription\n
+- Động từ đuôi –ade/-ude/-ide danh từ thường là –asion/-usion/-ision: Illude -> Illusion, Protrude -> Protrusion, Divide -> Division\n
+- Động từ đuôi –ise/-ize danh từ là –isation/-ization: Modernise/ize -> Modernisation/zation\n
+- Tính từ đuôi –ant/-ent danh từ là –ance/-ence: Important -> Importance, Evanescent -> Evanescence\n
+- Tính từ đuôi –able/-ible danh từ là –bility: Responsible -> Responsibility.</string>
+    <string name="trang_tu"><b>1. Định nghĩa</b>\nTrạng từ tiếng Anh là Adverb, được viết tắt là Adv.\n Trạng từ là từ nêu ra trạng thái hay tình trạng.\n
+
+        <b>2. Vị trí của trạng từ</b>\n
+        <b>- Trạng từ đứng trước động từ thường</b>\n
+(nhất là các trạng từ chỉ tàn suất: often, always, usually, seldom….)\n
+
+Ví dụ: We often get up at 6 a.m.\n
+
+        <b>- Trạng từ đứng giữa trợ động từ và động từ thường</b>\n
+Ví dụ: I have recently finished my homework.\n
+
+        <b>- Trạng từ đứng sau động từ tobe/seem/look… và trước tính từ</b>\n
+tobe/feel/look… + adv + adj\n
+
+Ví dụ: Hoai Phuong is very nice.\n
+
+        <b>- Trạng từ đứng sau “too”</b>\n
+V(thường) + too + adv\n
+
+Ví dụ: Quynh Trang speaks too quickly.\n
+
+        <b>- Trạng từ đứng trước “enough”</b>\n
+V(thường) + adv + enough\n
+
+Ví dụ: My teacher speaks slowly enough for me to understand.\n
+
+        <b>- Trạng từ trong cấu trúc so….that</b>\n
+V(thường) + so + adv + that\n
+
+Ví dụ: Nam drove so fast that he caused an accident.\n
+
+        <b>- Trạng từ thường đứng cuối câu</b>\n
+Ví dụ: The doctor told me to eat slowly.\n
+
+        <b>- Trạng từ cũng thường đứng một mình ở đầu câu, hoặc giữa câu và cách các thành phần khác của câu bằng dấu phẩy(,)</b>\n
+Ví dụ: Yesterday, I buy a new T-Shirt\n
+
+        <b>3. Cách nhận biết trạng từ</b>\n
+Trạng từ thường được thành lập bằng cách thêm đuôi “ly” vào tính từ\n
+
+Ví dụ: beautifully, usefully, carefully, bly, badly\n
+
+Lưu ý có một số trạng từ đặc biệt không tuân theo quy tắc trên, cần ghi nhớ\n
+
+- good well\n
+- late late/lately\n
+- ill ill\n
+- fast fast</string>
+    <string name="gioi_tu"><b>1. Định nghĩa</b>\n
+        Giới từ trong Tiếng Anh là preposition, viết tắt là chữ Pre.\n Các giới từ quen thuộc như là: in, on, at, with, for… \nGiới từ  chỉ sự liên quan giữa các từ loại trong cụm từ, trong câu. Những từ thường đi sau giới từ là tân ngữ (Object), Verb + ing, Cụm danh từ \n
+
+Ví dụ: I went into my room.\n
+
+Hue was sitting in the room at that time.\n
+
+        <b>2. Vị trí của giới từ trong tiếng anh</b>\n
+        <b>- Giới từ đứng sau TO BE, trước danh từ</b>\n
+Ví dụ: My laptop is on the table.\n
+
+        <b>- Giới từ đứng sau động từ:</b>\n Có thể liền sau động từ, có thể bị 1 từ khác chen giữa động từ và giới từ.\n
+Ví dụ: I live in Hanoi\n
+
+Take out your pen\n
+
+        <b>- Giới từ đứng sau tính từ</b>\n
+Ví dụ: She is angry with her boyfriend\n
+
+        <b>3. Các loại giới từ thường gặp trong Tiếng Anh</b>\n
+        <b>- Giời từ chỉ thời gian:</b>\n	-At : vào lúc ( thường đi với giờ )\n
+-On : vào ( thường đi với ngày )\n
+-In : vào ( thường đi với tháng, năm, mùa, thế kỷ )\n
+-Before: trước\n
+-After : sau\n
+-During : ( trong khoảng) ( đi với danh từ chỉ thời gian )\n
+        <b>- Giời từ chỉ nơi chốn:</b>\n	-At : tại ( dùng cho nơi chốn nhỏ như trường học, sân bay…)\n
+-In : trong (chỉ ở bên trong ) , ở (nơi chốn lớn thành phố, tỉnh ,quốc gia, châu lục…)\n
+
+-On,above,over : trên\n
+
+_On : ở trên nhưng chỉ tiếp xúc bề mặt.\n
+
+        <b>- Giời từ chỉ sự chuyển dịch:</b>\n	-To, into, onto : đến\n
++to: chỉ hướng tiếp cận tới người,vật,địa điểm.\n
++into: tiếp cận và vào bên trong vật,địa điểm đó\n
++onto: tiếp cận và tiếp xúc bề mặt,ở phía ngoài cùng của vật,địa điểm\n
+-From: chỉ nguồn gốc xuất xứ Ex: i come from vietnamese\n
+-Across : ngang qua Ex: He swims across the river. ( anh ta bơi ngang qua sông)\n
+-Along : dọc theo\n
+-Round,around,about: quanh\n
+        <b>- Giới từ chỉ thể cách:</b>\n	-With : với\n
+-Without : không, không có\n
+-According to: theo\n
+-In spite of : mặc dù\n
+-Instead of : thay vì\n
+        <b>- Giới từ chỉ mục đích:</b>\n	-To : để\n
+-In order to : để\n
+-For : dùm, dùm cho\n
+-Ex: Let me do it for you : để tôi làm nó dùm cho bạn.\n
+-So as to: để\n
+        <b>- Giới từ chỉ nguyên do:</b>\n	-Thanks to : nhờ ở\n
+-Ex: Thanks to your help, I passed the exam ( nhờ sự giúp đở của bạn mà tôi thi đậu).\n
+-Through : do, vì\n
+-Ex: Don’t die through ignorance ( đừng chết vì thiếu hiểu biết).\n
+-Because of : bởi vì\n
+-Owing to : nhờ ở, do ở\n
+-Ex: Owing to the drought,crops are short ( vì hạn hán nên mùa màng thất bát)\n
+-By means of : nhờ, bằng phương tiện</string>
+    <string name="MDQH"><b>1. Định nghĩa mệnh đề quan hệ</b>\n
+
+Mệnh đề (Clause) là một phần của câu, nó có thể bao gồm nhiều từ hay có cấu trúc của cả một câu.\n Mệnh đề quan hệ dùng để giải thích rõ hơn về danh từ đứng trước nó.\n
+
+Xét ví dụ sau:\n
+The woman who is wearing the T-shirt is my girlfriend.\n
+Trong câu này phần được viết chữ nghiêng được gọi là một relative clause, nó đứng sau “the woman” và dùng để xác định danh từ đó. Nếu bỏ mệnh đề này ra chúng ta vẫn có một câu hoàn chỉnh: \n
+The woman is my girlfriend.\n
+
+<b>2. Các dạng mệnh đề Quan hệ</b>\n
+
+        <b><i>A. Relative Pronouns - Đại từ quan hệ</i></b>\n
+        <b>Who</b>\n
+        - Làm chủ ngữ, đại diện ngôi người\n
+        E.g: I told you about the woman who lives next door.\n
+        <b>which</b>\n
+        - Làm chủ ngữ hoặc tân ngữ, đại diện ngôi đồ vật, động vật\n
+E.g: Do you see the cat which is lying on the roof?\n
+
+- Bổ sung cho cả câu đứng trước nó\n
+
+E.g: He couldn’t read which surprised me.\n
+<b>whose</b>\n
+        - Chỉ sở hữu cho người và vật	\n
+        E.g: Do you know the boy whose mother is a nurse?\n
+<b>whom</b>\n
+        - Đại diện cho tân ngữ chỉ người\n
+        E.g: I was invited by the professor whom I met at the conference.\n
+<b>That</b>\n
+       - Đại diện cho chủ ngữ chỉ người, vật, đặc biệt trong mệnh đề quan hệ xác định (who, which vẫn có thê sử dụng được)\n
+        E.g: I don’t like the table that stands in the kitchen.\n
+
+        <b><i>B. Relative Clauses - Mệnh đề quan hệ</i></b>\n
+
+
+Mệnh đề quan hệ (mệnh đề tính từ) bắt đầu bằng các đại từ quan hệ: who, whom, which, that, whose hay những trạng từ quan hệ: why, where, when. Mệnh đề quan hệ dùng để bổ nghĩa cho danh từ đứng trước nó.\n
+
+
+
+<b>I. Các đại từ quan hệ</b>\n
+        <b>1. WHO</b>\n
+
+- làm chủ từ trong mệnh đề quan hệ\n
+
+- thay thế cho danh từ chỉ người\n
+
+….. N (person) + WHO + V + O\n
+        <b>2. WHOM</b>\n
+
+- làm túc từ cho động từ trong mệnh đề quan hệ\n
+
+- thay thế cho danh từ chỉ người\n
+
+…..N (person) + WHOM + S + V\n
+        <b>3. WHICH</b>\n
+
+- làm chủ từ hoặc túc từ trong mệnh đề quan hệ\n
+
+- thay thế cho danh từ chỉ vật\n
+
+….N (thing) + WHICH + V + O\n
+….N (thing) + WHICH + S + V\n
+        <b>4. THAT</b>\n
+
+- có thể thay thế cho vị trí của who, whom, which trong mệnh đề quan hệ quan hệ xác định\n
+
+* Các trường hợp thường dùng “that”:\n
+
+- khi đi sau các hình thức so sánh nhất\n
+
+- khi đi sau các từ: only, the first, the last\n
+
+- khi danh từ đi trước bao gôm cả người và vật\n
+
+- khi đi sau các đại từ bất định, đại từ phủ định, đại từ chỉ số lượng: no one, nobody, nothing, anyone, anything, anybody, someone, something, somebody, all, some, any, little, none.\n
+
+Ex: He was the most interesting person that I have ever met.\n
+
+It was the first time that I heard of it.\n
+
+These books are all that my sister left me.\n
+She talked about the people and places that she had visited.\n
+
+* Các trường hợp không dùng that:\n
+
+- trong mệnh đề quan hệ không xác định\n
+
+- sau giới từ\n
+        <b>5. WHOSE</b>\n
+
+Dùng để chỉ sở hữu cho danh từ chỉ người hoặc vật, thường thay cho các từ: her, his, their, hoặc hình thức ‘s\n
+
+…..N (person, thing) + WHOSE + N + V ….\n
+
+
+
+<b>II. Các trạng từ quan hệ</b>\n
+        <b>1. WHY</b>: mở đầu cho mệnh đề quan hệ trong tiếng Anh chỉ lý do, thường thay cho cụm for the reason, for that reason.\n
+
+…..N (reason) + WHY + S + V …\n
+
+Ex: I don’t know the reason. You didn’t go to school for that reason.\n
+
+→ I don’t know the reason why you didn’t go to school.\n
+        <b>2. WHERE</b>: thay thế từ chỉ nơi chốn, thường thay cho there\n
+
+….N (place) + WHERE + S + V ….\n
+
+(WHERE = ON / IN / AT + WHICH)\n
+
+Ex: a/ The hotel wasn’t very clean. We stayed t that hotel.\n
+
+→ The hotel where we stayed wasn’t very clean.\n
+→ The hotel at which we stayed wasn’t very clean.\n
+        <b>3. WHEN</b>: thay thế từ chỉ thời gian, thường thay cho từ then\n
+
+….N (time) + WHEN + S + V …\n
+
+(WHEN = ON / IN / AT + WHICH)\n
+
+Ex: Do you still remember the day? We first met on that day.\n
+
+→ Do you still remember the day when we first met?\n
+→ Do you still remember the day on which we first met?\n
+I don’t know the time. She will come back then. → I don’t know the time when she will come back.\n
+
+
+<b>III. Các loại Mệnh đề quan hệ</b>\n
+Có hai loại mệnh đề quan hệ: \nMệnh đề quan hệ xác định và mệnh đề quan hệ không xác định.\n
+
+- Mệnh đề quan hệ xác định (Defining relative clauses): là mệnh đề được dùng để xác định danh từ đứng trước nó. \nMệnh đề xác định là mệnh đề cần thiết cho ý nghĩa của câu, không có nó câu sẽ không đủ nghĩa. \nNó được sử dụng khi danh từ là danh từ không xác định và không dùng dấu phẩy ngăn cách nó với mệnh đề chính.\n
+- Mệnh đề quan hệ không hạn định (Non-defining relative clauses): là mệnh đề cung cấp thêm thông tin về một người, một vật hoặc một sự việc đã được xác định.\n Mệnh đề không xác định là mệnh đề không nhất thiết phải có trong câu, không có nó câu vẫn đủ nghĩa.\n Nó được sử dụng khi danh từ là danh từ xác định và được ngăn cách với mệnh đề chính bằng một hoặc hai dấu phẩy (,) hay dấu gạch ngang (-)\n
+Ex: Dalat, which I visited last summer, is very beautiful. (Non-defining relative clause)\n
+
+Note: để biết khi nào dùng mệnh đề quan hệ không xác định, ta lưu ý các điểm sau:\n
+
+- Khi danh từ mà nó bổ nghĩa là một danh từ riêng\n
+
+- Khi danh từ mà nó bổ nghĩa là một tính từ sở hữu (my, his, her, their)\n
+
+- Khi danh từ mà nó bổ nghĩa la một danh từ đi với this , that, these, those\n
+
+
+<b>IV. Một số lưu ý trong mệnh đề quan hệ</b>\n
+1. Nếu trong mệnh đề quan hệ có giới từ thì giới từ có thể đặt trước hoặc sau mệnh đề quan hệ (chỉ áp dụng với whom và which.)\n
+
+Ex: Mr. Brown is a nice teacher. We studied with him last year.\n
+→ Mr. Brown, with whom we studied last year, is a nice teacher.\n
+→ Mr. Brown, whom we studied with last year, is a nice teacher.\n
+2. Có thể dùng which thay cho cả mệnh đề đứng trước.\n
+
+Ex: She can’t come to my birthday party. That makes me sad.\n → She can’t come to my birthday party, which makes me sad.\n
+3. Ở vị trí túc từ, whom có thể được thay bằng who.\n
+
+Ex: I’d like to talk to the man whom / who I met at your birthday party.\n
+4. Trong mệnh đề quan hệ xác định , chúng ta có thể bỏ các đại từ quan hệ làm túc từ:whom, which.\n
+
+Ex: The girl you met yesterday is my close friend. The book you lent me was very interesting.\n
+5. Các cụm từ chỉ số lượng some of, both of, all of, neither of, many of, none of … có thể được dùng trước whom, which và whose.\n
+
+Ex: I have two sisters, both of whom are students. She tried on three dresses, none of which fitted her.\n
+
+        <b>V. Cách rút gọn mệnh đề quan hệ</b>\n
+
+
+1. Mệnh đề quan hệ được rút thành cụm phân từ\n
+Mệnh đề quan hệ chứa các đại từ quan hệ làm chủ từ who, which, that có thể được rút gọn thành cụm hiện tại phân từ (V-ing) hoặc quá khứ phân từ (V3/ed).\n
+
+* Nếu mệnh đề quan hệ là mệnh đề chủ động thì rút thành cụm hiện tại phân từ (V-ing).\n
+a/ The man who is standing over there is my father. \n→ The man standing over there is my father.\n
+b/ The couple who live next door to me are professors.\n → The couple living next door to me are professors.\n
+* Nếu mệnh đề quan hệ là mệnh đề bị động thì rút thành cụm quá khứ phân từ (V3/ed).\n Ví dụ:\n
+a/ The instructions that are given on the front page are very important.\n → The instructions given on the front page are very important.\n
+b/ The book which was bought by my mother is interesting.\n → The book bought by my mother is interesting.\n
+
+2. Mệnh đề quan hệ được rút thành cụm động từ nguyên mẫu\n
+Mệnh đề quan hệ được rút thành cụm động từ nguyên mẫu (To-infinitive) khi trước đại từ quan hệ có các cụm từ: the first, the second, the last, the only hoặc hình thức so sánh bậc nhất.\n Ví dụ\n
+
+a/ John was the last person that got the news.\n → John was the last person to get the news.\n
+
+b/ He was the best player that we admire. \n→   He was the best player to be admired.\n
+
+c/ He was the second man who was killed in this way.\n →   He was the second man to be killed in this way.</string>
+    <string name="CDK"><b>I. CÂU ĐIỀU KIỆN LOẠI I</b>\n
+        <b>1. Khái niệm câu điều kiện loại I.</b>\n
+
+Câu điều kiện loại I còn được gọi là câu điều kiện có thực ở hiện tại. \nĐiều kiện có thể xảy ra ở hiện tại hoặc tương lai.\n
+        <b>2. Cấu trúc – Công thức của câu điều kiện</b>\n
+
+- If clause\n
+If + S + V s(es)...\n
+- Main clause\n
+S + will / can/ may + V1 (wont/cant + VI)\n
+- Hiểu cách khác trong câu điều kiện loại 1, mệnh đề IF dùng thì hiện tại đơn, mệnh đề chính dùng thì tương lai đơn.\n
+IF + Chủ ngữ 1 + Động từ chia ở thì hiện tại đơn + Bổ ngữ, Chủ ngữ 2 + WILL + Động từ nguyên mẫu + Bổ ngữ (nếu có).\n
+
+- Chủ ngữ 1 và chủ ngữ 2 có thể trùng nhau. Bổ ngữ có thể không có, tùy ý nghĩa của câu. Mệnh đề IF và mệnh đề chính có thể đứng trước hay sau đều được.
+- Trong câu điều kiện loại I, động từ của mệnh đề điều kiện chia ở thì hiện tại đơn, còn động từ trong mệnh đề chính chia ở thì tương lai đơn.
+        <b>3. Cách dùng câu điều kiện loại 1:</b>\n
+
+- Câu điều kiện loại 1 còn có thể được gọi là câu điều kiện hiện tại có thể có thật.\n Ta sử dụng câu điều kiện loại 1 để đặt ra một điều kiện có thể thực hiện được trong hiện tại và nêu kết quả có thể xảy ra.\n
+
+Ví dụ:\n
+
+ - If I find her address, I will send her an invitation. ( Nếu tôi tìm được địa chỉ của cô ấy, tôi sẽ gửi lời mời tới cô ấy)\n => Đổi vị trí 2 mệnh đề quan hệ:  I will send her an invitation if I find her address.)\n
+- If John has the money, he will buy a Ferrari. (Nếu John có nhiều tiền, anh ấy sẽ mua chiếc Ferrari)\n
+
+        <b>II. CÂU ĐIỀU KIỆN LOẠI II</b>\n
+        <b>1. Khái niệm:</b>\n
+
+Câu điều kiện loại 2 là câu điều kiện trái với thực tế ở hiện tại\n
+        <b>2. Công thức:</b>\n
+        - If clause\n
+If + S + V-ed /V2...\n
+        To be: were / weren t\n
+- Main clause\n
+S + would / could / should + V1 (wouldnt / couldnt + V1)\n
+
+– Trong câu điều kiện loại II, động từ của mệnh đề điều kiện chia ở bang thái cách (past subjunctive), động từ của mệnh đề chính chia ở thì điều kiện hiện tại (simple conditional). \nChú ý: Bàng thái cách (Past subjunctive) là hình thức chia động từ giống hệt như thì quá khư đơn, riêng động từ “to be” thì dùng “were” cho tất cả các ngôi.\n
+
+        <b>III. CÂU ĐIỀU KIỆN LOẠI III</b>\n
+        <b>1. Khái niệm về câu điều kiện loại 3:</b>\n
+- Câu điều kiện loại 3 là câu điều kiện không có thực trong quá khứ.\n
+- Điều kiện không thể xảy ra trong quá khứ, chỉ mang tính ước muốn trong quá khứ, một giả thiết trái ngược với thực trạng ở quá khứ.\n
+        <B>2. Cấu trúc câu điều kiện loại 3</B>\n
+- If clause\n
+lf +S + had + P.P\n
+- Main clause\n
+S + would / could / should + have + P.P\n
+
+
+– Trong câu điều kiện loại III, động từ của mệnh đề điều kiện chia ở quá khứ phân từ, còn động từ của mệnh đề chính chia ở điều kiện hoàn thành (perfect conditional).\n
+- Ví dụ\n
+If the forwards had run faster, they would have scored more goals. (Nếu tiền đạo chạy nhanh hơn, họ sẽ ghi được nhiều bàn thắng hơn.)\n
+If it had been a home game, our team would have won the match. (Nếu đó là trận đấu sân nhà, đội của chúng tôi sẽ thắng.)\n
+If you had spoken English, she would have understood. (Nếu bạn nói tiếng Anh thì cô ấy đã hiểu)\n
+If they had listened to me, we would have been home earlier. ( nếu họ đã nghe lời tôi, chúng ta đã về nhà sớm hơn)\n
+I would have written you a postcard if I had had your address. (Tôi đã viết cho bạn một tấm bưu thiếp nếu tôi có địa chỉ của bạn)\n
+If I had not broken my leg, I would have taken part in the contest. (Nếu tôi không bị gãy chân, tôi sẽ tham gia cuộc thi.)\n
+        <b>IV. Những cách khác để diễn đạt câu điều kiện</b>\n
+        <b>1. Câu Điều Kiện Diễn Tả Thói Quen Hoặc Một Sự Thật Hiển Nhiên (Câu điều kiện loại 0)</b>\n
+
+- Câu điều kiện này diễn tả một thói quen, một hành động thường xuyên xảy ra nếu điều kiện được đáp ứng, hoặc diễn tả một sự thật hiển nhiên, một kết quả tất yếu xảy ra.\n
+
+- Cấu trúc: If + S + V (hiện tại), S + V (hiện tại)\n
+        - Tất cả động từ trong câu (mệnh đề chính và mệnh đề điều kiện) đều được chia ở thì hiện tại đơn.\n
+
+        <b>If + Mệnh đề 1 (thì hiện tại đơn giản), Mệnh đề 2 (thì hiện tại đơn giản) => Khi muốn nhắn nhủ ai đó:</b>\n
+
+Ví dụ : If you see Nam, you tell him I’m in Vietnam (Nếu bạn gặp Nam, you hãy nhắn anh ấy rằng tôi đang ở Việt Nam nhé)\n
+        <b>If + Mệnh đề 1 (thì hiện tại đơn giản), Mệnh đề 2 (mệnh lệnh thức) => Dùng khi muốn nhấn mạnh</b>\n
+
+Ví dụ: If you have any trouble, please telephone me though 115 (Nếu bạn có bất kỳ rắc rối nào, xin hẫy gọi cho tôi qua số điện thoại 115)\n
+        <b>Nếu diễn tả thói quen, trong mệnh đề chính thường xuất hiện thêm: often, usually, or always.</b>\n Ví dụ:\n
+
+If water is frozen, it expands. (Nếu nước bị đông đặc nó nở ra.)\n
+I usually walk to school if I have enough time. (Tôi thường đi bộ đến trường nếu tôi có thời gian.)\n
+If you heat ice, it turns to water. (Nếu bạn làm nóng nước đá, nó sẽ chảy ra.)\n
+If we are cold, we shiver. (Nếu bị lạnh, chúng ta sẽ run lên.)\n
+        <b>2. Câu điều kiện Hỗn hợp:</b>\n
+
+Ngoài công thức áp dụng cho câu điều kiện loại 1, 2 3 thì trong tiếng Anh có nhiều cách khác nhau được dùng diễn tả điều kiện trong mệnh đề chỉ điều kiện với “If”. \nCâu điều kiện hỗn hợp là mix của các loại câu điều kiện với nhau, ví dụ một số trường hợp được sử dụng trong giao tiếp và ngôn ngữ viết:\n
+
+If she hadn t stayed up late last night, she wouldnt be so tired now. (Nếu cô ấy không ở lại muộn vào đêm qua, bây giờ cô ấy sẽ không quá mệt mỏi )\n ⇒ Thường có trạng từ đi theo (loại 3+ loại 2: giả thiết trái ngược với quá khứ, nhưng kết quả thì trái ngược với hiện tại)\n
+
+If I were you, I would have learned English earlier. (Nếu tôi là bạn, tôi đã học tiếng Anh sớm hơn) \n⇒  (loại 2 + loại 3: giả thiết trái ngược với hiện tại nhưng kết quả trái ngược với quá khứ)\n
+
+       </string>
+</resources>

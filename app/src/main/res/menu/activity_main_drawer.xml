@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/gioi_thieu"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Giới thiệu bài thi Toeic"
+            />
+    </group>
+    <!--<group android:checkableBehavior="single">-->
+        <!--<item-->
+            <!--android:id="@+id/tv"-->
+            <!--android:icon="@drawable/ic_menu_slideshow"-->
+            <!--android:title="600 từ vựng Toeic" />-->
+    <!--</group>-->
+
+    <item android:title="Bài tập ngữ pháp">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+
+                    android:id="@+id/thi"
+                    android:icon="@drawable/tracnghiem"
+                    android:title="Các thì của động từ" />
+                <item
+                    android:id="@+id/tuloai"
+                    android:icon="@drawable/tracnghiem"
+                    android:title="Từ loại" />
+                <item
+                    android:id="@+id/mdqh"
+                    android:icon="@drawable/tracnghiem"
+                    android:title="Mệnh đề quan hệ" />
+                <item
+                    android:id="@+id/cdk"
+                    android:icon="@drawable/tracnghiem"
+                    android:title="Câu điều kiện" />
+            </group>
+
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/score"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Danh sách điểm" />
+
+    </group>
+</menu>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NguPhap.GrammarTuLoaiFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:padding="20dp"
+                android:id="@+id/danhtu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFE2DFDF"
+
+                android:text="1. Danh từ"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="30dp" />
+
+            <Button
+                android:padding="20dp"
+                android:id="@+id/tinhtu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+
+                android:text="2. Tính từ"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="30dp" />
+
+            <Button
+                android:padding="20dp"
+                android:id="@+id/dongtu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFE2DFDF"
+
+                android:text="3. Động từ"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="30dp" />
+
+            <Button
+                android:padding="20dp"
+                android:id="@+id/trangtu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+
+                android:text="4. Trạng từ"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="30dp" />
+            <Button
+                android:padding="20dp"
+                android:id="@+id/gioitu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFE2DFDF"
+
+                android:text="5. Giới từ"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="30dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

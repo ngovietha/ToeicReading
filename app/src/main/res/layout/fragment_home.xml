@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="#DBD9D9"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    android:paddingRight="16dp"
+    android:paddingLeft="16dp"
+    tools:context="com.example.ha.ToeicReading.monhoc.ThiFragment">
+
+    <!--<ImageView-->
+
+        <!--android:id="@+id/b"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="250dp"-->
+        <!--android:src="@drawable/toeicwords" />-->
+
+
+
+    <ImageButton
+        android:src="@drawable/toeicwords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tuvung"/><!--android:background="#83A7B9"-->
+    <!--android:textColor="#311B92"-->
+    <!--android:textStyle="bold"-->
+    <!--android:text="600 từ vựng Toeic"-->
+    <ImageButton
+       android:src="@drawable/nguphap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/nguphap"/>
+    <!--<ImageView-->
+
+    <!--android:src="@drawable/banner"-->
+    <!--android:id="@+id/a"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--/>-->
+</LinearLayout>

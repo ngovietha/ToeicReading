@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:padding="20dp"
+        android:src="@drawable/avoid" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:id="@+id/tuvung"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="từ vựng"
+            android:textColor="#379DEB"
+            android:textSize="25dp" />
+
+        <TextView
+            android:id="@+id/phienam"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingLeft="10dp"
+            android:text="phiên âm"
+            android:textColor="#E72222"
+            android:textSize="25dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:id="@+id/giaithich1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Giải thích: "
+            android:textColor="#330D63"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/giaithich2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="giải thích bằng tiếng anh"
+            android:textColor="#1A237E"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:id="@+id/tuloai1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Từ loại:   "
+            android:textColor="#330D63"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tuloai2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="từ loại và nghĩa tiếng việt"
+            android:textColor="#1A237E"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:id="@+id/vidu1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Ví dụ: "
+            android:textColor="#330D63"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/vidu2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ví dụ tiếng anh"
+            android:textColor="#1A237E"
+            android:textSize="18dp" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/dichvd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="15dp"
+        android:text="dịch ví dụ"
+        android:textColor="#1A237E"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+</LinearLayout>

@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".NguPhap.ThiTLDFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp">
+            <TextView
+                android:textAllCaps="true"
+                android:gravity="center"
+                android:id="@+id/TenThi"
+                android:textColor="#FD0303"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Thì tương lai đơn" />
+            <TextView
+                android:textAllCaps="false"
+                android:id="@+id/CongThuc"
+                android:textColor="#311B92"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1. Công thức" />
+            <TextView
+                android:id="@+id/CongThuc1"
+                android:textColor="#311B92"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/thi9_cong_thuc" />
+            <TextView
+                android:textAllCaps="false"
+                android:id="@+id/CachDung"
+                android:textColor="#311B92"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2. Cách dùng" />
+            <TextView
+                android:id="@+id/CachDung1"
+                android:textColor="#311B92"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/thi9_cach_dung" />
+            <TextView
+                android:textAllCaps="false"
+                android:id="@+id/DauHieu"
+                android:textColor="#311B92"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3. Dấu hiệu nhận biết" />
+            <TextView
+                android:id="@+id/DauHieu1"
+                android:textColor="#311B92"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/thi9_dau_hieu" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NguPhap.GrammarThiFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFE2DFDF"
+                android:gravity="left"
+                android:text="1. Thì hiện tại đơn"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="left"
+                android:text="2. Thì hiện tại tiếp diễn"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFE2DFDF"
+                android:gravity="left"
+                android:text="3. Thì hiện tại hoàn thành"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="left"
+                android:text="4. Thì hiện tại hoàn thành tiếp diễn"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFE2DFDF"
+                android:gravity="left"
+                android:text="5. Thì quá khứ đơn"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="left"
+                android:text="6. Thì quá khứ tiếp diễn"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFE2DFDF"
+                android:gravity="left"
+                android:text="7. Thì quá khứ hoàn thành"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="left"
+                android:text="8. Thì quá khứ hoàn thành tiếp diễn"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFE2DFDF"
+                android:gravity="left"
+                android:text="9. Thì tương lai đơn"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="left"
+                android:text="10. Thì tương lai tiếp diễn"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFE2DFDF"
+                android:gravity="left"
+                android:text="11. Thì tương lai hoàn thành"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="left"
+                android:text="12. Thì tương lai hoàn thành tiếp diễn"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+            <Button
+                android:layout_marginLeft="10sp"
+                android:id="@+id/thi13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#FFE2DFDF"
+                android:gravity="left"
+                android:text="13. Thì tương lai gần"
+                android:textAllCaps="false"
+                android:textColor="#4f3df7"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
